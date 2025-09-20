@@ -14,7 +14,7 @@ Documentation for the wrk project.
 - https://github.com/rob-j-au/wrk-ork
 - https://github.com/rob-j-au/app-node
 
-### Docker Images
+### Docker
 
 #### Dockerfiles
 
