@@ -5,10 +5,10 @@ Documentation for the wrk project.
 
 ### Shared Libraries
 
-- https://github.com/rob-j-au/tpl-wrk-thing
+- https://github.com/rob-j-au/tpl-work-thing
 - https://github.com/rob-j-au/wrk-base
 
-### Applications
+### Services
 
 - https://github.com/rob-j-au/wrk-book
 - https://github.com/rob-j-au/wrk-ork
